@@ -1,5 +1,3 @@
-# CostPitch
-
 ## Problem: 
 How to think through collaborative digital platforms when thinking about the new forms of capitalism and technology that these platforms enable?
 
